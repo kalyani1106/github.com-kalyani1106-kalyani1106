@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF,56D364&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Kalyani%20Rowthu&fontSize=36&fontColor=C9D1D9&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20Aspirant%20%C2%B7%20DSA%20Problem%20Solver&descAlignY=60&descColor=58A6FF" />
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=56D364&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%8C%90;Data+Analyst+Aspirant+%F0%9F%93%8A;DSA+Problem+Solver+%F0%9F%92%BB;300%2B+LeetCode+Problems+Solved+%F0%9F%92%A1;Building+impactful+real-world+projects+%F0%9F%9A%80" />

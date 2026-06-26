@@ -11,7 +11,7 @@
 
 ```python
 class KalyaniRowthu:
-    role  = ["Full Stack Developer", "Data Analyst Aspirant"]
+    role  = "Full Stack Developer", "Data Analyst Aspirant"
     stack = {
         "languages": ["Java", "C++", "Python", "SQL"],
         "web"      : ["React", "Node.js", "HTML/CSS", "JavaScript"],

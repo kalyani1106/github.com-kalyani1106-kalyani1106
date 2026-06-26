@@ -1,5 +1,3 @@
-# github.com-kalyani1106-kalyani1106
-
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF,56D364&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Kalyani%20Rowthu&fontSize=36&fontColor=C9D1D9&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20Aspirant%20%C2%B7%20DSA%20Problem%20Solver&descAlignY=60&descColor=58A6FF" />

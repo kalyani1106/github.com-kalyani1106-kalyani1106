@@ -86,8 +86,11 @@ class KalyaniRowthu:
 ## 🏆 Achievements
 
 -💡  Solved 300+ problems on LeetCode
+
 -⭐  2★ rated programmer on CodeChef
+
 -📊  Building end-to-end analytics projects with SQL, Python & Power BI
+
 -🤝  Open to Full Stack and Data Analyst internships & collaborations
 
 ---
